@@ -1,0 +1,1 @@
+chmod +x install_wireguard.sh generate_client.sh list_clients.sh remove_client.sh
