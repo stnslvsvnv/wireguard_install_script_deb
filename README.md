@@ -1,7 +1,7 @@
-Simnple Wireguard VPN installer with custom DNS picker.
+Simple Wireguard VPN installer with custom DNS picker.
 
 After install in dir:
-chmod +x install_wireguard.sh generate_client.sh list_clients.sh remove_client.sh
+       chmod +x install_wireguard.sh generate_client.sh list_clients.sh remove_client.sh
 
 If have a problem with nginx:
 
